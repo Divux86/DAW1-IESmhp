@@ -9,7 +9,7 @@ package ejercicio5.ejercicio5;
  */
 public class Ejercicio5 {
 
-public static void main(String[] args) {
+public static void main(String[] args) {//inicio del main
     int docenasiniciales = 34;
     double kilosiniciales = 12d;
 
@@ -39,6 +39,6 @@ public static void main(String[] args) {
     System.out.println("Huevos: " + restaurante1.getHuevos()+" huevos.");
     System.out.println("Chorizo: " + restaurante1.getChorizo()+" kilos.");
 
-}
+}//fin del main
 
 }

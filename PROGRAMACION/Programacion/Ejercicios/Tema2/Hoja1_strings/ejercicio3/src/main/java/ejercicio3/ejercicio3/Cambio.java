@@ -11,7 +11,6 @@ package ejercicio3.ejercicio3;
 public class Cambio {
     public Cambio() {}
     
-    //devuelve los euros
     public String vocalesToO (String frase)
     {
         frase = frase.replace('a','o');
